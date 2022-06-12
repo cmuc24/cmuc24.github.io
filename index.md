@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+echt jetzt The README.md file is where you will write the content for your site. You can edit the file or keep the default content for now.
+
 You can use the [editor on GitHub](https://github.com/cmuc24/cmuc24.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
